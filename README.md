@@ -1,2 +1,2 @@
-## Project: alx-zero_day
- Basic git commands
+# Project: alx-zero_day
+## Basic git commands
